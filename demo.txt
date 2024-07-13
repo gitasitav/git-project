@@ -3,3 +3,4 @@ Git undo command for following .
 Working Area .
 Staging Area .
 Local Area.
+git push coad to local
