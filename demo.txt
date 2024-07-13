@@ -1,1 +1,5 @@
 Git is a SCM tool.
+Git undo command for following .
+Working Area .
+Staging Area .
+Local Area.
