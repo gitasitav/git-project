@@ -4,3 +4,4 @@ Working Area .
 Staging Area .
 Local Area.
 git push coad to local
+git is now pushing to remort repo
