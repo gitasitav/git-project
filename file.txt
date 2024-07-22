@@ -2,3 +2,6 @@ line for first coad .
 hello , how are you .
 how are you .
 how are i 
+code line 1
+code line 2
+code line 3
