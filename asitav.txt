@@ -4,3 +4,4 @@ Its a distrubuted system .
 Line submitted by Asitav.
 Added this line by SaiRam.
 SVN is outdated
+SVN is a popular tool before GIT 
